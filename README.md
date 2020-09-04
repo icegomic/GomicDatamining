@@ -1,2 +1,2 @@
-# LagouDatamining
-Lagou Datamining Resource
+# GomicDatamining
+Gomic Datamining Resource
